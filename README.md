@@ -1,4 +1,4 @@
-# Tlotliso Arthur Matea - Software Engineer
+# Tlotliso Arthur Mashifane - Software Engineer
 
 Hello there! 👋 I'm Tlotliso a full stack Developer 
 
