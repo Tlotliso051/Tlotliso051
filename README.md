@@ -5,10 +5,17 @@ Hello there! 👋 I'm Tlotliso a full stack Developer
 ## 💬 Ask me about ...
 
 - 🌍 Location: I am based in Johannesburg
-- 💻 Aspiring Full Stack Software Developer (with high interest in back-Engineering)
-- 🚀 Currently exploring: engaging in various projects making us of Java & Python
+- 💻 Aspiring Full Stack Software Developer (with high interest in back-End Engineering)
+- 🚀 Currently exploring: engaging in various projects making use of Java & Python
 
-## Skills
+
+
+## Technologies
+
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+  ## Skills
 
 I have proficiency in the following languages and technologies:
 
@@ -17,11 +24,6 @@ I have proficiency in the following languages and technologies:
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## Technologies
-
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫 How to reach me: ...
 
