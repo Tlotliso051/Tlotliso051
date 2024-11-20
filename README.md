@@ -1,12 +1,12 @@
-# Tlotliso Arthur Mashifane - Software Engineer
+# Tlotliso Arthur Matea - Software Engineer
 
-Hello there! 👋 I'm Tlotliso a full stack Developer 
+Hello there! 👋 I'm Java Developer (J2EE).
 
 ## 💬 Ask me about ...
 
-- 🌍 Location: I am based in Johannesburg
-- 💻 Aspiring Full Stack Software Developer (with high interest in back-End Engineering)
-- 🚀 Currently exploring: engaging in various projects making use of Java & Python
+- 🌍 Location: I am based in Johannesburg (Gauteng)
+- 💻 Software Engineer (with high interest in back-End Engineering)
+- 🚀 Java is the Language i speak fluently with Machines
 
 
 
